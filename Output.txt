@@ -1,0 +1,222 @@
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: ABC,Total Hours Worked: 40,Pay Rate: $40,Gross Pay: $1600,Federal Withholding 288,State Withholding72,Union Dues (2%): $32,Net Pay: $1208
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: DEF,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: GHI,Total Hours Worked: 65,Pay Rate: $65,Gross Pay: $5200,Federal Withholding 936,State Withholding234,Union Dues (2%): $104,Net Pay: $3926
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: JKL,Total Hours Worked: 32,Pay Rate: $32,Gross Pay: $1024,Federal Withholding 184.32,State Withholding46.08,Union Dues (2%): $20.48,Net Pay: $773.12
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: MNO,Total Hours Worked: 128,Pay Rate: $128,Gross Pay: $14080,Federal Withholding 2534.4,State Withholding633.6,Union Dues (2%): $281.6,Net Pay: $10630.4
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: PQR,Total Hours Worked: 49,Pay Rate: $49,Gross Pay: $4091.5,Federal Withholding 736.47,State Withholding184.118,Union Dues (2%): $81.83,Net Pay: $3089.08
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: STU,Total Hours Worked: 43,Pay Rate: $43,Gross Pay: $3203.5,Federal Withholding 576.63,State Withholding144.157,Union Dues (2%): $64.07,Net Pay: $2418.64
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: VWX,Total Hours Worked: 46.5,Pay Rate: $46.5,Gross Pay: $3708.38,Federal Withholding 667.507,State Withholding166.877,Union Dues (2%): $74.1675,Net Pay: $2799.82
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: XYZ,Total Hours Worked: 50,Pay Rate: $50,Gross Pay: $4250,Federal Withholding 765,State Withholding191.25,Union Dues (2%): $85,Net Pay: $3208.75
+Employee Initials,Total Hours Worked,Pay Rate,Federal Withholding,State Withholding,Union Dues,Gross Pay,Net Pay
+Initials: AAA,Total Hours Worked: 26,Pay Rate: $26,Gross Pay: $676,Federal Withholding 121.68,State Withholding30.42,Union Dues (2%): $13.52,Net Pay: $510.38

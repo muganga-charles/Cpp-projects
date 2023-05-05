@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683251197 source:c:\users\hp\desktop\allan\allan c++\allanproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+

@@ -1,0 +1,6 @@
+Employee Initials,Error
+Initials: ,Error: Error Message:Negative value encounted for hours on day 6 For employee STU, Skipping calculation for this day.
+
+Employee Initials,Error
+Initials: ,Error: Error Message:Negative value encounted for hours on day 6 For employee STU, Skipping calculation for this day.
+
